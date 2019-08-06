@@ -11,28 +11,28 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Brint"
+            android:text="Panda"
             android:layout_marginLeft="20sp"
             android:textSize="20dp"/>
 
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Meekus"
+            android:text="Giraffe"
             android:layout_marginLeft="20sp"
             android:textSize="20dp"/>
 
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Ben"
+            android:text="Elephant"
             android:layout_marginLeft="20sp"
             android:textSize="20dp"/>
 
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Toby"
+            android:text="Tiger"
             android:layout_marginLeft="20sp"
             android:textSize="20dp"/>
 
